@@ -1,0 +1,33 @@
+* commit 64e0a8e73073bd66d83555451eddc568c7e5db4d
+| Author: Edward Ayoub <edward.ayoub@campus.technion.ac.il>
+| Date:   Tue Jan 6 00:47:32 2026 +0200
+| 
+|     finishing the wet part
+| 
+|  SortedList.h    | 447 +++++++++++++++++++++++++++++++++++++++++++++++++-----
+|  TaskManager.cpp | 118 ++++++++++++++
+|  TaskManager.h   |  27 ++--
+|  TechnionMatam   |   1 +
+|  4 files changed, 542 insertions(+), 51 deletions(-)
+| 
+* commit c5722ab4f16cac40fa756f333918cd651d0b3fa8
+  Author: EgbariaMohammad <agbariya@campus.technion.ac.il>
+  Date:   Fri Dec 26 15:46:17 2025 +0200
+  
+      Add files via upload
+  
+   Person.cpp           |  51 +++++
+   Person.h             |  79 ++++++++
+   README.md            |   6 +
+   SortedList.h         |  57 ++++++
+   Task.cpp             |  86 ++++++++
+   Task.h               | 115 +++++++++++
+   TaskManager.h        |  75 +++++++
+   main.cpp             | 531 +++++++++++++++++++++++++++++++++++++++++++++++++
+   tests/test1.expected |   3 +
+   tests/test2.expected |   3 +
+   tests/test3.expected |  30 +++
+   tests/test4.expected |   3 +
+   tests/test5.expected |   3 +
+   tests/test6.expected |  15 ++
+   14 files changed, 1057 insertions(+)
