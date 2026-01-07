@@ -1,3 +1,39 @@
+* commit 4b86fcbb7b8380f947967f441e6d16129eb5149b
+| Author: Edward Ayoub <edward.ayoub@campus.technion.ac.il>
+| Date:   Wed Jan 7 21:01:59 2026 +0200
+| 
+|     finshig the projects 1.3
+| 
+|  dry.pdf | Bin 221859 -> 222915 bytes
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+| 
+* commit 2dfcc2f5b5d6c1a106f97b6b37e0b9a8e0946234
+| Author: Edward Ayoub <edward.ayoub@campus.technion.ac.il>
+| Date:   Wed Jan 7 20:33:17 2026 +0200
+| 
+|     finshig the projects 1.1
+| 
+|  SortedList.h | 511 +++++++++++++++++++++++----------------------------------
+|  1 file changed, 206 insertions(+), 305 deletions(-)
+| 
+* commit 3b4d549476e63358d9e4a00779cfbf3578a19bf3
+| Author: Edward Ayoub <edward.ayoub@campus.technion.ac.il>
+| Date:   Tue Jan 6 01:35:05 2026 +0200
+| 
+|     finishing the dry part 1.1
+| 
+|  dry.pdf | Bin 0 -> 221859 bytes
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+| 
+* commit 48eeea4db5408a95b13a1370dcb4df3dd659e427
+| Author: Edward Ayoub <edward.ayoub@campus.technion.ac.il>
+| Date:   Tue Jan 6 01:24:34 2026 +0200
+| 
+|     finishing the dry part 1.0
+| 
+|  log.txt | 33 +++++++++++++++++++++++++++++++++
+|  1 file changed, 33 insertions(+)
+| 
 * commit 64e0a8e73073bd66d83555451eddc568c7e5db4d
 | Author: Edward Ayoub <edward.ayoub@campus.technion.ac.il>
 | Date:   Tue Jan 6 00:47:32 2026 +0200
